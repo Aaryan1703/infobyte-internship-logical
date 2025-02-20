@@ -1,3 +1,5 @@
+package logicalquestions;
+
 public class SumOfDigits {
     public static void main(String[] args) {
         int n=12345;

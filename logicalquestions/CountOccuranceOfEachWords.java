@@ -1,3 +1,5 @@
+package logicalquestions;
+
 import java.util.HashMap;
 
 public class CountOccuranceOfEachWords {

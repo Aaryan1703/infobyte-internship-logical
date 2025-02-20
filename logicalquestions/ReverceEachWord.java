@@ -1,3 +1,5 @@
+package logicalquestions;
+
 public class ReverceEachWord {
     public static void main(String[] args) {
         String str="Java is good programing language";
